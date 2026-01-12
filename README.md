@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 2.5+ Years of Experience working as a Software Engineer at an MNC that operates in over 100+ countries.<br><br> 🔭 I’m currently working on microservices from the scenario of e-commerce<br>👯 I’m looking to collaborate on Mobile apps (iOS & Android; Native and cross-platform)<br>🌱 I’m currently learning how to design and work with distributed systems<br>💬 Ask me about iOS and Android app development<br>⚡ Fun fact, You can't learn it all, shake hands for shared knowledge<br>
+👨🏻‍💻 2.5+ Years of Experience working as a Software Engineer at an MNC that operates in over 100+ countries.<br><br> 🔭 I’m currently working on a project with microservices<br>👯 I’m looking to collaborate on Mobile apps (iOS & Android; Native and cross-platform)<br>🌱 I’m currently learning how to design and work with distributed systems<br>💬 Ask me about iOS and Android app development<br>⚡ Fun fact, You can't learn it all, shake hands for shared knowledge<br>
 
 
 ## 🌐 Socials:
